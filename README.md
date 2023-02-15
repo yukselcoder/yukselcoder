@@ -17,4 +17,3 @@ Fullstack Developer...
 
 
 
-Windows Linux Docker Git Power BI Google Data Studio R Python C C++ Flask HTML5 CSS JavaScript Java SQL SQLite SQLServer ETL MongoDB PySpark Spark
