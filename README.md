@@ -13,3 +13,8 @@ Fullstack Developer...
 
 📄 Know about my experiences https://www.linkedin.com/in/y%C3%BCksel-k%C4%B1l%C4%B1%C3%A7-552835257/
 
+
+
+
+
+Windows Linux Docker Git Power BI Google Data Studio R Python C C++ Flask HTML5 CSS JavaScript Java SQL SQLite SQLServer ETL MongoDB PySpark Spark
