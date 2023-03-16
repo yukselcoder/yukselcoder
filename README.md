@@ -3,13 +3,12 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/118610714/212908362-a4297363-0dda-4d07-8c92-78ae1cee5596.svg)
 
-
-https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukselcoder&label=Profile%20views&color=0e75b6&style=flat" alt="yukselcoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukselcoder" alt="yukselcoder" /></a> </p>
 
+
+https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
 - 🔭 I’m currently working on **FRONT END DEVELOPER**
 
 - 🌱 I was learn **HTML,CSS,JAVA SCRİPT , BOOTSTRAP,REACT, SASS**
