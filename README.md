@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/118610714/212908362-a4297363-0dda-4d07-8c92-78ae1cee5596.svg)
+https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukselcoder&label=Profile%20views&color=0e75b6&style=flat" alt="yukselcoder" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 🌱 I was learn **HTML,CSS,JAVA SCRİPT , BOOTSTRAP,REACT, SASS**
 
-- 📫 How to reach me **yukselkilic166@gmail.com**
+-📬 Connect with me: **yukselkilic166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
